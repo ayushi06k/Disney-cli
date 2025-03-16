@@ -5,6 +5,7 @@
 ![Disney CLI](assets/disney-cli.png)
 
 
+
 ## What it's about
 
 The **Disney CLI** is a command-line app made using Node.js and JavaScript modules. It allows you to explore Disney movies, famous characters, quotes, and fun facts—all from your terminal!
@@ -46,9 +47,8 @@ Try running a command, such as listing Disney movies:
 
 
 
-## Usage
+## Commands
 
-Now that you have installed the app, you can run **disney-cli** in your terminal or cmd to explore the magical world of Disney! 🎬✨
 
 ### **🎞️ List all Disney movies**
 ```bash
