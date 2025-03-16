@@ -2,12 +2,8 @@
   <h1>Disney CLI</h1>
 </div>
 
-![image](./assets/disney-cli.png)
+![Disney CLI](assets/disney-cli.png)
 
-![npm](https://img.shields.io/npm/v/@yourusername/disney-cli?color=pink&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/yourusername/disney-cli?style=for-the-badge)
-![npm](https://img.shields.io/npm/dw/@yourusername/disney-cli?color=orange&style=for-the-badge)
-![maintained?](https://img.shields.io/badge/maintained%3F-YES-important?style=for-the-badge)
 
 ## What it's about
 
@@ -21,7 +17,7 @@ Code
 Clone the Repository
 
 ```bash
-  git clone https://github.com/your-username/disney-cli.git
+  git clone https://github.com/ayushi06k/Disney-cli.git
   cd disney-cli
 
 ```
@@ -83,7 +79,7 @@ This will fetch data about "The Lion King," including its release year, characte
 
 
 ### Some Useful Notes
-This CLI app is currently in development and is maintained by [me](https://github.com/yourusername). Development may be slow due to other commitments, but new features will continue to be added!
+This CLI app is currently in development and is maintained by [me](https://github.com/ayushi06k/Disney-cli.git). Development may be slow due to other commitments, but new features will continue to be added!
 
 
 Enjoy the Disney magic! ✨🎥
