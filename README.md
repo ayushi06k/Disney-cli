@@ -81,5 +81,7 @@ This will fetch data about "The Lion King," including its release year, characte
 ### Some Useful Notes
 This CLI app is currently in development and is maintained by [me](https://github.com/ayushi06k/Disney-cli.git). Development may be slow due to other commitments, but new features will continue to be added!
 
+If you'd like to contribute, feel free to submit a pull request. Contributions are always welcome! 😊
+
 
 Enjoy the Disney magic! ✨🎥
